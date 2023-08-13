@@ -1,0 +1,64 @@
+{
+    "flights": [
+      {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "prices": [
+          {
+            "date": "08-08-2023",
+            "indigo": 1614,
+            "airAsia": 1869,
+            "vistara": 2133
+          },
+          {
+            "date": "09-08-2023",
+            "indigo": 1414,
+            "airAsia": 1769,
+            "vistara": 2533
+          },
+          {
+            "date": "10-08-2023",
+            "indigo": 1214,
+            "airAsia": 1369,
+            "vistara": 2433
+          },
+          {
+            "date": "11-08-2023",
+            "indigo": 1514,
+            "airAsia": 1669,
+            "vistara": 2733
+          }
+        ]
+      },
+      {
+        "source": "Delhi",
+        "destination": "Chandigarh",
+        "prices": [
+          {
+            "date": "08-08-2023",
+            "indigo": 2614,
+            "airAsia": 2869,
+            "vistara": 3133
+          },
+          {
+            "date": "09-08-2023",
+            "indigo": 2114,
+            "airAsia": 2269,
+            "vistara": 3133
+          },
+          {
+            "date": "10-08-2023",
+            "indigo": 2414,
+            "airAsia": 2769,
+            "vistara": 3033
+          },
+          {
+            "date": "11-08-2023",
+            "indigo": 2814,
+            "airAsia": 2469,
+            "vistara": 3433
+          }
+        ]
+      }
+    ]
+  }
